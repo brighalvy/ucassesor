@@ -1,0 +1,13 @@
+name: shiny_trial
+title:
+username:
+account: f7s5jt-brigham-halverson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6357184
+bundleId: 5990656
+url: https://f7s5jt-brigham-halverson.shinyapps.io/shiny_trial/
+when: 1654723676.02672
+lastSyncTime: 1654723676.02672
+asMultiple: FALSE
+asStatic: FALSE
